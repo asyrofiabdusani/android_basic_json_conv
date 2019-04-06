@@ -1,0 +1,4 @@
+#Wed Mar 07 21:55:12 ICT 2018
+base.0=C\:\\Android\\Project\\EarthquakeApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\232
+path.0=classes.dex
+renamed.0=classes.dex
